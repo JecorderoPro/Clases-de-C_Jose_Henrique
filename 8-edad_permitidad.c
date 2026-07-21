@@ -9,7 +9,7 @@ int main(){
         printf("usted puede apostar\n");
 
         }else{
-            printf("usted no puede apostar\n")
+            printf("usted no puede apostar\n");
         }
             if(legal<=18){
                 printf("usted puede votar\n");
